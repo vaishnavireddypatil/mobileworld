@@ -1,0 +1,10 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+  <test name="Mobileworld">  
+    <classes>        
+       <class name="Pom.Mobileworld.signin"/>   
+       <class name="Pom.Mobileworld.signup"/>       
+       <class name="Pom.Mobileworld.contactus"/>                       
+    </classes> 
+  </test> 
+</suite> 
